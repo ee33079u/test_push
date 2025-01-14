@@ -5,3 +5,5 @@ gitHubの使い方
 > mkdir test_push
 > cd test_push
 > notepad test.txt
+
+hikamani
